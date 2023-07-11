@@ -1,3 +1,36 @@
+
+# All the Functionalities working fine 
+
+Please solve this problem statement **************************
+Develop a task management react web application
+Functionalities
+1. Add task card to the list
+2. Update/Delete task
+3. Move card to another list
+4. Export the entire list to excel
+
+
+C. Upload you code on Github and share link.
+
+D. Add screenshots
+- screenshot folders
+
+E. Simple Solution Document to explain the application
+  - read docs.md file
+
+
+# to run in your local system 
+
+1 install node.js
+2 git clone repo url this .
+3 goto folder directory 
+4 install node module & dependency -  npm install
+5 run in local server -  npm start 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
